@@ -22,6 +22,7 @@ Recommended you use a higher quality 3d printer that is PETG or ABS or better co
 - a nail (however for the firing pin this can be a piece of sharpened or filed steel bar stock)
 - 3/16 steel bar stock
 - 5/16 outer diameter (1/4 inner diameter) steel brake line (if you have 5/16 OD .22lr rifled liner liner and a chamber reamer that will work better)
+  -alternatively, 8mm ODx6mm ID steel tube will also work
 - springs (you can either make your own from appropriate music wire or buy what you can)
 
 ## Recommended Tools
