@@ -1,7 +1,7 @@
 # 22lr personal defense weapon
 Designed by *HulkHoganHH* ([steamcommunity.com/id/HulkHoganHH](steamcommunity.com/id/HulkHoganHH), discord:HulkHoganHH#3508, [thehulksterHH@gmail.com](thehulksterHH@gmail.com))
 
-**Always check current releases before downloading for important information**
+***Always check current releases before downloading for important information***
 
 ![Brapper 3d Printable 22lr Ingram  Pistol](july_2020_assembly.png)
 
